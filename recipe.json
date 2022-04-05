@@ -1,0 +1,74 @@
+{"name": "BENGA",
+        "description": `Recipe Description Goes Here`,
+        "date": "",
+       "ingredients": [
+           "1 level teaspoon baking powder",
+           "1 level teaspoon cayenne pepper",
+           "1 level teaspoon hot smoked paprika",
+         ],
+         "category": "Congo", 
+         "type": "Plat",
+       "image": "southern-friend-chicken.jpg"},
+       {"name": "Riz Gras",
+        "description": `Recipe Description Goes Here`,
+        "date": "",
+       "ingredients": [
+           "1 level teaspoon baking powder",
+           "1 level teaspoon cayenne pepper",
+           "1 level teaspoon hot smoked paprika",
+         ],
+         "category": "Burkina_Faso", 
+         "type": "Plat",
+       "image": "bf rizgras.jpg"},
+       {"name": "Recipe Name Goes Here",
+        "description": `For the Chicken
+        Add oil to a large pot and heat over medium. Add the chicken and season with salt and pepper.
+        Cook, until the chicken is cooked all the way through, about 10 minutes, flipping once in between.
+        Remove the chicken onto a paper towel-covered plate to drain of excess oil. Set aside.
+        For the Rice
+        Add the vegetable oil to the same pot and heat over medium. Add the onions and cook until translucent, about 5 minutes.
+        Add the garlic, habanero peppers and tomatoes. Cook another 3 minutes, stirring occasionally.
+        Add the tomato paste and stir the mixture to combine.
+        Add the rice and stir the mixture to combine.
+        Add the chicken stock, cinnamon stick and salt and pepper (to taste). Stir well and bring to a boil on high heat.
+        Once boiling, cover the pot and decrease the heat to "low." Cook, stirring occasionally, until the rice is cooked and liquids are absorbed, about 12 minutes.`,
+        "date": "",
+       "ingredients": [
+           "¼ cup Vegetable Oil",
+           "1 lb. Chicken Thighs*",
+           "Salt and Pepper, to taste",
+           "½ cup Vegetable Oil",
+           "2 Yellow Onions chopped",
+           "5 cloves Garlic minced",
+           "2 Habanero Peppers finely chopped",
+           "3 Roma Tomatoes seeded and chopped",
+           "2¼ cups Long-Grain White Rice",
+           "5 cups Chicken Stock",
+           "Cinnamon Stick",
+         ],
+         "category": "Togo", 
+         "type": "Plat",
+       "image": "bf rizgras.jpg"},
+       {"name": "mAFEES",
+        "description": `Recipe Description Goes Here`,
+        "date": "",
+       "ingredients": [
+           "1 level teaspoon baking powder",
+           "1 level teaspoon cayenne pepper",
+           "1 level teaspoon hot smoked paprika",
+         ],
+         "category": "Sénégal", 
+         "type": "Plat",
+       "image": "bf rizgras.jpg"},
+       {"name": "Recipe Name Goes Here",
+        "description": `Recipe Description Goes Here`,
+        "date": "",
+       "ingredients": [
+           "1 level teaspoon baking powder",
+           "1 level teaspoon cayenne pepper",
+           "1 level teaspoon hot smoked paprika",
+         ],
+         "category": "Côte_dIvoire", 
+         "type": "Plat",
+       "image": "southern-friend-chicken.jpg"},
+       
