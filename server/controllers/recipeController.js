@@ -176,6 +176,7 @@ exports.submitRecipe = async(req, res) => {
 //  * POST /submit-recipe
 //  * Submit Recipe
 // */
+//TODO : MODIFIER AVEC AMAZON S3 POUR ENVOYER VERS UN BUKET LES IMAGES ET STOCKER L'URL DANS MONGDB 
 exports.submitRecipeOnPost = async(req, res) => {
   try {
 
